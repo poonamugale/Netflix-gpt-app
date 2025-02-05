@@ -1,7 +1,14 @@
+# Form Validations
+
+- Use external library (Formik)
+
 # Netflix GPT
 
--create React App
--Configured TailwindCSS
+- create React App
+- Configured TailwindCSS
+- Header
+- Login Form
+  -Sign up Form
 
 # Features
 
